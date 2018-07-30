@@ -1,5 +1,7 @@
 # ECE 475 Full Adder
 Lab 1
+Code Authors: Rachel & Danya
+
 This lab served as an introduction to VHDL and using it within Xilinx. 
 Students will also observe the RTL schematic that Xilinx generates based on the VHDL code.
 The emphasis of this lab is on structural modeling.
